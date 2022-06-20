@@ -1,5 +1,7 @@
 # Desafio Front-end Júnior
 
+Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnica como candidato.
+
 Crie um aplicativo react com um menu superior contendo 2 links: "Lista de gatos" e "Formulário"
 
 O link "Lista de gatos" deve direcionar a aplicação para uma rota que:
