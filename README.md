@@ -40,3 +40,5 @@ Você é livre para escolher os estilos visuais, fontes e cores.
 O nosso objetivo é avaliar sua capacidade de lidar com multiplas requisições, organizar dados de fontes assíncronas e trabalhar com validações de formulários complexos.
 
 Crie o seu projeto como um repositório público do github e nos envie o link.
+
+**OBS:** Se a API estiver offline, utilize os arquivos json incluidos nesse projeto para simular uma requisição ao servidor.
